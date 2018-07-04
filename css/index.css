@@ -1,0 +1,20 @@
+.card-color {
+	border-radius: 0;
+}
+
+.card-body {
+	color: #ffffff;
+}
+
+.no-bottom-border {
+	border-bottom: 0;
+}
+
+.other-padding {
+	padding: 1rem;
+}
+
+.square {
+	width: 25px;
+	height: 25px;
+}
